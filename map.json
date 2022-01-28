@@ -966,12 +966,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/workadventure.github.io\/hackaton\/map.json"
+         "value":"https:\/\/workadventure.github.io\/hackathon\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Hackaton"
+         "value":"Hackathon"
         }, 
         {
          "name":"script",
