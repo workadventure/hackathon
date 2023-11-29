@@ -1174,7 +1174,7 @@
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
-                 "value":"editor"
+                 "value":"admin"
                 }, 
                 {
                  "name":"openConfigTrigger",
@@ -1212,7 +1212,7 @@
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
-                 "value":"editor"
+                 "value":"admin"
                 }, 
                 {
                  "name":"openConfigTrigger",
@@ -1302,7 +1302,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1340,7 +1340,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1373,7 +1373,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1406,7 +1406,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1439,7 +1439,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1472,7 +1472,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1505,7 +1505,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1538,7 +1538,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1571,7 +1571,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1604,7 +1604,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -1637,7 +1637,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
